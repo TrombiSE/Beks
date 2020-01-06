@@ -1,0 +1,54 @@
+h1 {
+    color:orange;
+
+    text-align: center;
+    font-size: 30px;
+}
+p{
+    text-align: -moz-center;
+    font-size: 30px;
+    front-family: canvas;}
+
+
+li{
+    font-size: 30px;
+
+}
+
+.header{
+    border: 5px solid black;
+    margin-top: 6px;
+    background-color: green;
+}
+.header a{
+    color: white;
+}
+.header h1{
+    color: white;
+}
+
+.Mainbody{
+    border: 5px solid black;
+    margin-top: 5px;
+}
+.sport{
+    border: 5px solid black;
+}
+.history{
+    border: 5px solid black;
+    margin-top: 5px;
+}
+a{
+    padding-left:30px ;
+}
+.comp{
+    border:5px solid black ;
+}
+.Ingr{
+    position: absolute;
+    margin-left:600px;
+}
+.bake{
+    position: absolute;
+    margin-left:900px;
+}
